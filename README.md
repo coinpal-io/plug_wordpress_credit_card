@@ -7,17 +7,21 @@
 Note: Before installing the "Coinpal - Crypto Payment Gateway", please ensure that WooCommerce is installed and activated.
 If it is not yet installed, follow the same steps below to search for "WooCommerce", then click Install Now and Activate.
 
-1.  Install "Coinpal - Crypto Payment Gateway" plugin
+1.  Install CoinPal plugin
+
+    Click on the [CoinPal plugin](https://github.com/coinpal-io/plug_wordpress_credit_card/blob/main/coinpal.zip) to download the CoinPal Payment Plug.
 
     Log in to your WordPress admin dashboard.
     
     From the left-hand menu, go to Plugins → Add New.
     
-    In the search bar at the top right, type "Coinpal - Crypto Payment Gateway".
+    Click the Upload Plugin button at the top of the page.
     
-    Once the plugin appears in the search results, click "Install Now".
+    Click Choose File, locate the coinpal.zip file you just downloaded, and select it.
     
-    After the installation is complete, click "Activate" to enable the plugin.
+    Click Install Now.
+    
+    After the installation is complete, click Activate to enable the plugin.
     
 ![](./img/plug1.png)
 
